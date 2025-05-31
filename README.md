@@ -5,7 +5,7 @@
 - Đam mê ứng dụng IT trong kinh tế, kinh doanh, và phát triển thị trường
 - Hiện tại đang học **C++, Python, HTML, CSS, Js, My SQL.
 - Mục tiêu: Trở thành Product Owner chuyên về dữ liệu
-- Liên hệ: huynhcongtinh2006193@gmail.com | https://www.linkedin.com/in/c%C3%B4ng-t%C3%ADnh-78b5b435a/
+- Liên hệ: huynhcongtinh2006193@gmail.com 
   
 # Skills:
 - Programming: Python, C++, SQL
